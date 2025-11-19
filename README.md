@@ -50,16 +50,10 @@ Assim, o DevDeck se posiciona como uma ponte entre empresas visionárias e profi
 
 ---
 
-## 🔗 *Links do Projeto*
+## 🌍 *Visite o site do nosso Projeto!!*
 
+[DevDeck](https://devdeck.vercel.app/)
 
-***Visite o site do Projeto no Versel***
-
-[DevDeck]([https://devdeck.vercel.app/])
-
-***Repositório***
-
-[Github]([https://github.com/larissashiba/DevDeck])
 
 ---
 
