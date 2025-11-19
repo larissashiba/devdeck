@@ -54,7 +54,6 @@ Assim, o DevDeck se posiciona como uma ponte entre empresas visionárias e profi
 
 [DevDeck](https://devdeck.vercel.app/)
 
-
 ---
 
 ## 🛠️ *Principais Tecnologias Utilizadas*
@@ -146,3 +145,9 @@ yarn build
 
 | [<img loading="lazy" src="https://github.com/larissashiba.png" width=115><br><sub>Larissa Shiba</sub>](https://github.com/larissashiba) | 
 | :---: |
+
+---
+
+## Link do Repositório
+
+[Github](https://github.com/larissashiba/DevDeck)
